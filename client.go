@@ -8,7 +8,7 @@ import (
 
 	quic "github.com/lucas-clemente/quic-go"
 	"golang.org/x/net/context"
-	cli "gopkg.in/urfave/cli.v2"
+	cli "github.com/urfave/cli"
 )
 
 func client(c *cli.Context) error {
