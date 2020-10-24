@@ -13,4 +13,4 @@
 // limitations under the License.
 
 // Package main is ...
-package main // import "moul.io/quicssh"
+package main
