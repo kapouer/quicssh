@@ -14,7 +14,7 @@ import (
 
 	quic "github.com/lucas-clemente/quic-go"
 	"golang.org/x/net/context"
-	cli "github.com/urfave/cli"
+	cli "github.com/urfave/cli/v2"
 )
 
 func server(c *cli.Context) error {
