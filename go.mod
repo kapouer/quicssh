@@ -1,4 +1,4 @@
-module moul.io/quicssh
+module kapouer/quicssh
 
 go 1.12
 
